@@ -1,0 +1,14 @@
+{
+  "Hello World": "Bonjour Monde",
+  "interpolated": "Du texte que j'interpole {count} fois",
+  "time": "Il est maintenant {now, time}",
+  "number": "Mon nombre préféré est {n, number}",
+  "pluralized": "J'ai {count, plural,=1 {un chat} other {{count} chats}}",
+  "pluralized-with-hash": "{count, plural,=0 {Je n'ai pas de chat} =1 {J'ai juste # chat} other {J'ai # chats}}",
+  "selected": "{gender, select, male {C'est un bon garçon} female {C'est une bonne fille} other {Ce sont de bonnes personnes}}",
+  "Error": "Erreur",
+  "About": "À Propos",
+  "Map": "Carte",
+  "French": "English",
+  "Home": "Acceuil"
+}
